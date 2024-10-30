@@ -1,0 +1,47 @@
+.wpcf7-repeater-actions {
+    border-top: 1px dashed #ddd;
+    padding-top: 10px;
+    margin-top: 15px;
+}
+.wpcf7-repeater-item {
+    border-top: 1px dashed #ddd;
+    margin-top: 15px;
+    padding-top: 15px;
+}
+.wpcf7-repeater-unlock {
+    padding: 15px;
+    background: #EDF2D9;
+    box-sizing: border-box;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+.wpcf7-repeater-unlock a.button {
+    float: right;
+}
+.wpcf7-repeater-shortcode.shortcode input {
+    background: #eaeaea;
+    border: 1px dashed #ddd;
+    border-radius: 2px;
+}
+.wpcf7-repeater-table label {
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 30px;
+}
+.wpcf7-repeater-table span.description {
+    line-height: 15px;
+    margin-top: 5px;
+    display: block;
+    font-size: 11px;
+    margin-bottom: 10px;
+    max-width: 90%;
+}.wpcf7-repeater-table h4{
+    background: #fbfbfb;
+    padding: 10px;
+    margin-left: -10px;
+}
+.wpcf7-repeater-table th{
+    position: relative;
+    padding-right: 24px;
+    padding-left: 10px;
+}
